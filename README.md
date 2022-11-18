@@ -13,7 +13,7 @@ S'assurer d'avoir toutes les dépendances
 Si nécessaire, utiliser un environnement virtuel
 Utiliser la commande "pip install -r requirements.txt" pour installer les packages nécessaires
 
-#utilisation
+# utilisation
 Lancer le fichier main.py
 Utiliser un navigateur pour accéder à http://localhost:8080
 Entrer un 'keyword' à chercher
