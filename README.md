@@ -15,7 +15,7 @@ Utiliser la commande "pip install -r requirements.txt" pour installer les packag
 
 #Utilisation
 Lancer le fichier main.py
-Utiliser un navigateur pour accéder à http://localhost:8081
+Utiliser un navigateur pour accéder à http://localhost:8080
 Entrer un 'keyword' à chercher
 Répéter
  Tests 
