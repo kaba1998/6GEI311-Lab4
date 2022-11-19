@@ -22,5 +22,5 @@ Répéter
  Tests 
  lancer tests.py
  
- le rapport de laboratoire sera remis sur moodle 
+ voici le lien du rapport que vous pouvez telecharger
 [RapportLab4.pdf](https://github.com/kaba1998/6GEI311-Lab4/files/10045845/RapportLab4.pdf)
