@@ -22,3 +22,4 @@ Répéter
  Tests 
  lancer tests.py
  
+ le rapport de laboratoire sera remis sur moodle 
